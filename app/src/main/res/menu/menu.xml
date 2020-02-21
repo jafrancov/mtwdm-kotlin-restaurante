@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_acerca_de"
+        android:title="@string/acerca_de" />
+    <item
+        android:id="@+id/menu_platos_fuertes"
+        android:title="@string/platos_fuertes" />
+    <item
+        android:id="@+id/menu_ensaladas"
+        android:title="@string/ensaladas" />
+    <item
+        android:id="@+id/menu_bebidas"
+        android:title="@string/bebidas" />
+</menu>
